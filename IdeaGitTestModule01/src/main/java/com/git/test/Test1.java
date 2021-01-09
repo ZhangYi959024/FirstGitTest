@@ -1,6 +1,6 @@
-package com.test.thread.callable;
+package com.git.test;
 
-public class Demo{
+public class Test1{
 
 
     public void test(){

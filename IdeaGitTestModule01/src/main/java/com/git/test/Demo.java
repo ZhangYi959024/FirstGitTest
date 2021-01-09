@@ -1,4 +1,4 @@
-package com.test.thread.callable;
+package com.git.test;
 
 import java.io.Serializable;
 import java.util.Objects;
